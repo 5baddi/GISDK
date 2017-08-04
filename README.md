@@ -7,4 +7,4 @@ This is a mirror of http://www.vim.org/scripts/script.php?script_id=613
 
 You can get All GISDK functions from : gisdk.dict.
 
-If you have problems don't forget to ask in Stackoverflow.com
+If you have problems don't forget to ask in https://www.stackoverflow.com
